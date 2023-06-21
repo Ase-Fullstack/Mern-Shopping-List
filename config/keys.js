@@ -1,0 +1,1 @@
+module.exports={mongoURI:'mongodb+srv://MERNstack:Asenake@forpractice.ftoejvu.mongodb.net/shoppingitems?retryWrites=true&w=majority'};
